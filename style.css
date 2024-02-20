@@ -93,3 +93,6 @@ ul{
     margin-top: 50px;
     padding: 30px;
 }
+.modal-dialog{
+    background-color: black;
+}
